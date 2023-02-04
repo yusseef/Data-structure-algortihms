@@ -15,5 +15,5 @@ def binary_search(arr, target):
         
     return -1
 
-print(binary_search([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 3))
+print(binary_search([-1,0,3,5,9,12], 9))
 
